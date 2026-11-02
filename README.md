@@ -297,7 +297,6 @@ WorldExplorer/
 │                   ├── ProgressBar.java
 │                   └── ...
 │
-├── config.example.properties
 ├── config.properties
 ├── .gitignore
 └── README.md
